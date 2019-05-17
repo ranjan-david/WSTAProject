@@ -11,17 +11,6 @@ from math import log, sqrt
 # Ranjan: I've had to do this because I am using an IDE and the working directory is something weird. You can remove this line if you want.
 os.chdir("C:\\Users\\ranji.LAPTOP-LO7RC9LJ\\Documents\\Web Search\\Project1" )
 
-# This helper method just reads a json file and returns the object
-def read_json(filename):
-
-    with open(filename) as json_file:  
-        claims = json.load(json_file)
-        
-    #    for key, value in claims.items():
-    #        print('Id: ' + key)
-    #        print('claim:  ' + value['claim'])
-    #        print('label:  ' + value['label'])
-        return claims
 
 def stem_sentence(sentence):
     stemmer = nltk.stem.PorterStemmer()
@@ -42,7 +31,8 @@ def read_wiki_data():
     vocab = {}
     csv.register_dialect('space', delimiter=' ', quoting=csv.QUOTE_NONE)
 
-    wiki_data_path = 'C:\\Users\\ranji.LAPTOP-LO7RC9LJ\\Documents\\Web Search\\Project1\\wiki-test\\*.txt'
+    #wiki_data_path = 'C:\\Users\\ranji.LAPTOP-LO7RC9LJ\\Documents\\Web Search\\Project1\\wiki-test\\*.txt'
+    wiki_data_path = 'C:\\Users\\ranji.LAPTOP-LO7RC9LJ\\Documents\\Web Search\\Project1\\wiki-pages-text\\*.txt'
     wiki_files = glob.glob(wiki_data_path)
 
     for name in wiki_files: 
