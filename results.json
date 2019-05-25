@@ -1,0 +1,4942 @@
+{
+    "110000": {
+        "claim": "Raven-Symon\u00e9 is an Anglican.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Raven-Symon\u00e9_-LRB-album-RRB-",
+                0
+            ],
+            [
+                "Raven-Symon\u00e9",
+                0
+            ],
+            [
+                "Raven-Symon\u00e9",
+                8
+            ],
+            [
+                "Raven-Symon\u00e9",
+                9
+            ],
+            [
+                "Raven-Symon\u00e9",
+                6
+            ]
+        ]
+    },
+    "73397": {
+        "claim": "Temple of the Dog celebrated the 37th anniversary of their self-titled album.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Temple_of_the_Dog",
+                11
+            ],
+            [
+                "Temple_of_the_Dog",
+                6
+            ],
+            [
+                "Sevendust_-LRB-album-RRB-",
+                7
+            ],
+            [
+                "Chris_Knight_-LRB-album-RRB-",
+                4
+            ],
+            [
+                "Starless_and_Bible_Black_Sabbath",
+                1
+            ]
+        ]
+    },
+    "16079": {
+        "claim": "Solanum contains plants with ornamental flowers.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Solanum",
+                1
+            ],
+            [
+                "Hesperaloe",
+                1
+            ],
+            [
+                "Ornamental_plant",
+                0
+            ],
+            [
+                "Solanum",
+                0
+            ],
+            [
+                "Solanum_lanceolatum",
+                4
+            ]
+        ]
+    },
+    "114789": {
+        "claim": "A Good Day to Die Hard is part of the Library of Congress.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "A_Good_Day_to_Die_Hard",
+                0
+            ],
+            [
+                "A_Good_Day_to_Die_Hard",
+                11
+            ],
+            [
+                "DH5_-LRB-disambiguation-RRB-",
+                7
+            ],
+            [
+                "A_Good_Day_to_Die_Hard",
+                13
+            ],
+            [
+                "Die_Hard_with_a_Vengeance",
+                3
+            ]
+        ]
+    },
+    "126871": {
+        "claim": "The Icelandic Coast Guard is also known as Gaeslan and it is important to modern infrastructure.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Icelandic_Coast_Guard",
+                8
+            ],
+            [
+                "Coast_Guard_E_Ribbon",
+                3
+            ],
+            [
+                "Icelandic_Coast_Guard",
+                11
+            ],
+            [
+                "Icelandic_Prison_Service",
+                1
+            ],
+            [
+                "Icelandic_Coast_Guard",
+                0
+            ]
+        ]
+    },
+    "226458": {
+        "claim": "Chadwick Boseman portrayed a film character.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "List_of_Batman_films_cast_members",
+                21
+            ],
+            [
+                "Message_from_the_King_-LRB-film-RRB-",
+                1
+            ],
+            [
+                "Get_on_Up_-LRB-film-RRB-",
+                1
+            ],
+            [
+                "List_of_Batman_films_cast_members",
+                3
+            ],
+            [
+                "List_of_Batman_films_cast_members",
+                7
+            ]
+        ]
+    },
+    "132649": {
+        "claim": "Ghost is a film.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Canterville_Ghost_-LRB-disambiguation-RRB-",
+                8
+            ],
+            [
+                "The_Canterville_Ghost_-LRB-disambiguation-RRB-",
+                10
+            ],
+            [
+                "The_Canterville_Ghost_-LRB-disambiguation-RRB-",
+                12
+            ],
+            [
+                "The_Canterville_Ghost_-LRB-disambiguation-RRB-",
+                14
+            ],
+            [
+                "The_Canterville_Ghost_-LRB-disambiguation-RRB-",
+                16
+            ]
+        ]
+    },
+    "51263": {
+        "claim": "James Brolin is an orthodontist.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Brolin",
+                6
+            ],
+            [
+                "James_Brolin",
+                0
+            ],
+            [
+                "Angel_Camouflaged",
+                1
+            ],
+            [
+                "Brolin",
+                0
+            ],
+            [
+                "Brolin",
+                4
+            ]
+        ]
+    },
+    "51262": {
+        "claim": "Superhuman abilities may result from antelope enhancement by human evolution.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Superhuman",
+                6
+            ],
+            [
+                "Superhuman_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "A_god_Somewhere",
+                4
+            ],
+            [
+                "Mutant_-LRB-Marvel_Comics-RRB-",
+                0
+            ],
+            [
+                "Superhuman_-LRB-disambiguation-RRB-",
+                3
+            ]
+        ]
+    },
+    "51260": {
+        "claim": "Robinson Crusoe on Mars was a Greek tragedy.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Robinson_Crusoe_-LRB-1954_film-RRB-",
+                0
+            ],
+            [
+                "No_Man_Friday",
+                1
+            ],
+            [
+                "Robinson_Crusoe_on_Mars",
+                0
+            ],
+            [
+                "Robinson_Crusoe_-LRB-1954_film-RRB-",
+                4
+            ],
+            [
+                "Robinson_Crusoe_House",
+                1
+            ]
+        ]
+    },
+    "103549": {
+        "claim": "South Island only has 23 percent of New Zealand's million inhabitants and it is a cultured place.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "South_Island",
+                5
+            ],
+            [
+                "Demographics_of_New_Zealand",
+                2
+            ],
+            [
+                "Ponui_Island",
+                13
+            ],
+            [
+                "Demographics_of_New_Zealand",
+                9
+            ],
+            [
+                "Demographics_of_New_Zealand",
+                25
+            ]
+        ]
+    },
+    "155639": {
+        "claim": "Kung Fu Panda was in last place at the box office.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Kung_Fu_Panda",
+                17
+            ],
+            [
+                "Kung_Fu_Panda_-LRB-franchise-RRB-",
+                0
+            ],
+            [
+                "Kung_Fu_Panda",
+                11
+            ],
+            [
+                "Kung_Fu_Panda_-LRB-franchise-RRB-",
+                2
+            ],
+            [
+                "Kung_Fu_Panda",
+                12
+            ]
+        ]
+    },
+    "22267": {
+        "claim": "The Stanford prison experiment was an investigation into the causes of difficulties between guards and criminals.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Stanford_prison_experiment",
+                2
+            ],
+            [
+                "Stanford_prison_experiment",
+                0
+            ],
+            [
+                "Stanford_Prison_Experiment_-LRB-band-RRB-",
+                0
+            ],
+            [
+                "Stanford_prison_experiment",
+                9
+            ],
+            [
+                "Natural_Justice",
+                1
+            ]
+        ]
+    },
+    "22266": {
+        "claim": "The Stanford prison experiment was an investigation into the causes of difficulties between guards and prisoners.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Stanford_prison_experiment",
+                2
+            ],
+            [
+                "Stanford_prison_experiment",
+                0
+            ],
+            [
+                "Stanford_Prison_Experiment_-LRB-band-RRB-",
+                0
+            ],
+            [
+                "Pite\u0219ti_Prison",
+                1
+            ],
+            [
+                "Pite\u0219ti_Prison",
+                0
+            ]
+        ]
+    },
+    "127472": {
+        "claim": "What requires the use of computer terminals are Internet Access.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Internet_access",
+                0
+            ],
+            [
+                "Agora_-LRB-web_browser-RRB-",
+                1
+            ],
+            [
+                "Computer_room",
+                6
+            ],
+            [
+                "Content_security",
+                2
+            ],
+            [
+                "Internet_access",
+                5
+            ]
+        ]
+    },
+    "82441": {
+        "claim": "Salt River Valley is in Central Park.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Salt_River_Valley",
+                0
+            ],
+            [
+                "Salt_River_Project",
+                0
+            ],
+            [
+                "Park_Valley_-LRB-Arizona-RRB-",
+                0
+            ],
+            [
+                "Salt_River_-LRB-Wyoming-RRB-",
+                14
+            ],
+            [
+                "Salt_River_-LRB-Wyoming-RRB-",
+                2
+            ]
+        ]
+    },
+    "48891": {
+        "claim": "Harry Fraud is a hip hop producer.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Hip-Hop_Forever_III",
+                0
+            ],
+            [
+                "Shot_Caller",
+                1
+            ],
+            [
+                "MHz_Legacy_-LRB-album-RRB-",
+                0
+            ],
+            [
+                "MHz_Legacy_-LRB-album-RRB-",
+                3
+            ],
+            [
+                "Bossalinis_&_Fooliyones",
+                0
+            ]
+        ]
+    },
+    "103545": {
+        "claim": "Annabelle is at The Museum of Natural History.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "NHM",
+                5
+            ],
+            [
+                "NHM",
+                3
+            ],
+            [
+                "BMNH",
+                3
+            ],
+            [
+                "NHM",
+                7
+            ],
+            [
+                "List_of_Directors_of_the_Natural_History_Museum",
+                0
+            ]
+        ]
+    },
+    "223218": {
+        "claim": "FC Bayern Munich was sponsored by Pepsi.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Bayern_-LRB-disambiguation-RRB-",
+                8
+            ],
+            [
+                "Bayern_-LRB-disambiguation-RRB-",
+                10
+            ],
+            [
+                "Bayern_-LRB-disambiguation-RRB-",
+                12
+            ],
+            [
+                "Bayern_-LRB-disambiguation-RRB-",
+                16
+            ],
+            [
+                "Bayern_-LRB-disambiguation-RRB-",
+                18
+            ]
+        ]
+    },
+    "55615": {
+        "claim": "Stomp the Yard stars an American actor born in 1992.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Columbus_Short",
+                0
+            ],
+            [
+                "Harry_Shum_Jr.",
+                0
+            ],
+            [
+                "Collins_Pennie",
+                0
+            ],
+            [
+                "Columbus_Short",
+                2
+            ],
+            [
+                "Harry_Shum_Jr.",
+                2
+            ]
+        ]
+    },
+    "228059": {
+        "claim": "Caleb McLaughlin is a farmer.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "John_McLaughlin_-LRB-politician-RRB-",
+                0
+            ],
+            [
+                "Caleb_McLaughlin",
+                0
+            ],
+            [
+                "Anthony_McLaughlin",
+                0
+            ],
+            [
+                "Caleb_Hopkins",
+                2
+            ],
+            [
+                "Sheila_McLaughlin",
+                3
+            ]
+        ]
+    },
+    "148701": {
+        "claim": "Phoenix, Arizona borders southern California.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Desert_Training_Center",
+                7
+            ],
+            [
+                "Desert_Training_Center",
+                0
+            ],
+            [
+                "Palo_Verde_Valley",
+                0
+            ],
+            [
+                "Santa_Fe,_Prescott_and_Phoenix_Railway",
+                3
+            ],
+            [
+                "Cox7",
+                3
+            ]
+        ]
+    },
+    "120126": {
+        "claim": "Simon Pegg is a producer and an actor.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Simon_Pegg",
+                0
+            ],
+            [
+                "Pegg",
+                21
+            ],
+            [
+                "Pegg",
+                15
+            ],
+            [
+                "Simon_Curtis",
+                3
+            ],
+            [
+                "Rebecca_Ferrand",
+                2
+            ]
+        ]
+    },
+    "128870": {
+        "claim": "Skopje was a dead body.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Shadows_-LRB-2007_film-RRB-",
+                2
+            ],
+            [
+                "Dead_Body_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "Macedonian_Heraldry_Society",
+                1
+            ],
+            [
+                "Football_Federation_of_Macedonia",
+                0
+            ],
+            [
+                "Over_my_dead_body",
+                0
+            ]
+        ]
+    },
+    "128879": {
+        "claim": "Baloch people speak a branch of Northwestern Iranian languages and they are cultured.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Baloch_people",
+                3
+            ],
+            [
+                "Mazanderani_language",
+                3
+            ],
+            [
+                "Baloch_people",
+                0
+            ],
+            [
+                "Mazanderani_language",
+                1
+            ],
+            [
+                "Zaza\u2013Gorani_languages",
+                1
+            ]
+        ]
+    },
+    "205111": {
+        "claim": "Gaius Julius Caesar was a vegan.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                1
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                0
+            ],
+            [
+                "Sextus_Julius_Caesar_-LRB-governor_of_Syria-RRB-",
+                2
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                13
+            ],
+            [
+                "Julia_Major_-LRB-sister_of_Caesar-RRB-",
+                0
+            ]
+        ]
+    },
+    "205110": {
+        "claim": "Gaius Julius Caesar was Roman and Irish.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Sextus_Julius_Caesar_-LRB-governor_of_Syria-RRB-",
+                2
+            ],
+            [
+                "Gaius_Julius_Iulus",
+                0
+            ],
+            [
+                "Gaius_Julius_Caesar_-LRB-Rome_character-RRB-",
+                1
+            ],
+            [
+                "Sextus_Julius_Caesar_-LRB-consul_91_BC-RRB-",
+                0
+            ],
+            [
+                "Sextus_Julius_Caesar_-LRB-consul_91_BC-RRB-",
+                2
+            ]
+        ]
+    },
+    "205113": {
+        "claim": "Gaius Julius Caesar was a bassist.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                1
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                0
+            ],
+            [
+                "Sextus_Julius_Caesar_-LRB-governor_of_Syria-RRB-",
+                2
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                13
+            ],
+            [
+                "Julia_Major_-LRB-sister_of_Caesar-RRB-",
+                0
+            ]
+        ]
+    },
+    "205112": {
+        "claim": "Gaius Julius Caesar was born in 130 BC in Rome.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                0
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                0
+            ],
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                5
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                1
+            ],
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                4
+            ]
+        ]
+    },
+    "205115": {
+        "claim": "Gaius Julius Caesar was a German senator.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                0
+            ],
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                5
+            ],
+            [
+                "Lucius_Julius_Caesar_-LRB-consul_64_BC-RRB-",
+                2
+            ],
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                4
+            ],
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                3
+            ]
+        ]
+    },
+    "205114": {
+        "claim": "Gaius Julius Caesar only died in 70 BC.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                0
+            ],
+            [
+                "Gaius_Julius_Caesar_-LRB-proconsul-RRB-",
+                5
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                1
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                0
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                13
+            ]
+        ]
+    },
+    "205117": {
+        "claim": "Gaius Julius Caesar was a congressman.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                1
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                0
+            ],
+            [
+                "Sextus_Julius_Caesar_-LRB-governor_of_Syria-RRB-",
+                2
+            ],
+            [
+                "Julia_-LRB-wife_of_Marius-RRB-",
+                13
+            ],
+            [
+                "Julia_Major_-LRB-sister_of_Caesar-RRB-",
+                0
+            ]
+        ]
+    },
+    "148152": {
+        "claim": "The Nice Guys was directed by Wally Pfister.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Transcendence_-LRB-2014_film-RRB-",
+                0
+            ],
+            [
+                "Pfister",
+                2
+            ],
+            [
+                "Nice_Guys",
+                3
+            ],
+            [
+                "Nice_Guys",
+                5
+            ],
+            [
+                "Wally_Pfister",
+                0
+            ]
+        ]
+    },
+    "135035": {
+        "claim": "Mount Hood is in the Northeast.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Muddy_Fork_-LRB-Oregon-RRB-",
+                1
+            ],
+            [
+                "Mount_Hood,_Oregon",
+                0
+            ],
+            [
+                "Mount_Hood_National_Recreation_Area",
+                0
+            ],
+            [
+                "Mount_Hood_National_Recreation_Area",
+                3
+            ],
+            [
+                "Mount_Hood,_Oregon",
+                8
+            ]
+        ]
+    },
+    "82229": {
+        "claim": "Vampires often visited frogs.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Lost_frog",
+                10
+            ],
+            [
+                "The_Frogs",
+                0
+            ],
+            [
+                "Lost_frog",
+                8
+            ],
+            [
+                "Lost_frog",
+                11
+            ],
+            [
+                "Pelophylax",
+                4
+            ]
+        ]
+    },
+    "56123": {
+        "claim": "Jed Whedon has no parents.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "John_Whedon",
+                5
+            ],
+            [
+                "Whedon",
+                12
+            ],
+            [
+                "-LRB-Do_You_Wanna_Date_My-RRB-_Avatar",
+                1
+            ],
+            [
+                "Whedon",
+                8
+            ],
+            [
+                "Whedon",
+                6
+            ]
+        ]
+    },
+    "142603": {
+        "claim": "Yugoslavia is also inscribed Jugoslavija.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Dragan_Jovanovi\u0107_-LRB-footballer-RRB-",
+                10
+            ],
+            [
+                "Dragan_Jovanovi\u0107_-LRB-footballer-RRB-",
+                12
+            ],
+            [
+                "Du\u0161an_Petkovi\u0107_-LRB-footballer,_born_1903-RRB-",
+                12
+            ],
+            [
+                "Du\u0161an_Petkovi\u0107_-LRB-footballer,_born_1903-RRB-",
+                5
+            ],
+            [
+                "FRJ",
+                2
+            ]
+        ]
+    },
+    "56129": {
+        "claim": "Ed and Lorraine Warren refused to be paranormal investigators.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Conjuring_2",
+                2
+            ],
+            [
+                "Ed_and_Lorraine_Warren",
+                0
+            ],
+            [
+                "Perry_DeAngelis",
+                2
+            ],
+            [
+                "Annabelle_-LRB-doll-RRB-",
+                0
+            ],
+            [
+                "Annabelle_-LRB-doll-RRB-",
+                3
+            ]
+        ]
+    },
+    "75942": {
+        "claim": "The Beverly Hillbillies had ten seasons.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Beverly_Hillbillies",
+                0
+            ],
+            [
+                "The_Beverly_Hillbillies",
+                6
+            ],
+            [
+                "List_of_The_Beverly_Hillbillies,_Petticoat_Junction_and_Green_Acres_episodes",
+                4
+            ],
+            [
+                "List_of_The_Beverly_Hillbillies,_Petticoat_Junction_and_Green_Acres_episodes",
+                7
+            ],
+            [
+                "The_Beverly_Hillbillies",
+                1
+            ]
+        ]
+    },
+    "142602": {
+        "claim": "In 2015, Emilia Clarke was named The President of the United States.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Robert_L._Clarke",
+                4
+            ],
+            [
+                "Robert_L._Clarke",
+                0
+            ],
+            [
+                "U.S._Consulate_General,_Florence",
+                0
+            ],
+            [
+                "United_States_Ambassador_to_Nepal",
+                3
+            ],
+            [
+                "Robert_L._Clarke",
+                5
+            ]
+        ]
+    },
+    "98315": {
+        "claim": "A Good Day to Die Hard was directed solely by Ridley Scott.",
+        "label": "NOT ENOUGH INFO",
+        "evidence": [
+            [
+                "A_Good_Day_to_Die_Hard",
+                11
+            ],
+            [
+                "A_Good_Day_to_Die_Hard",
+                13
+            ],
+            [
+                "A_Good_Day_to_Die_Hard",
+                0
+            ],
+            [
+                "DH5_-LRB-disambiguation-RRB-",
+                7
+            ],
+            [
+                "Die_Hard_with_a_Vengeance",
+                3
+            ]
+        ]
+    },
+    "25289": {
+        "claim": "The Love Club EP is the debut extended play by Lorde.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "The_Love_Club_EP",
+                0
+            ],
+            [
+                "The_Love_Club_-LRB-song-RRB-",
+                0
+            ],
+            [
+                "List_of_songs_recorded_by_Lorde",
+                4
+            ],
+            [
+                "List_of_songs_recorded_by_Lorde",
+                10
+            ],
+            [
+                "Bravado_-LRB-song-RRB-",
+                0
+            ]
+        ]
+    },
+    "15489": {
+        "claim": "See You on the Other Side is a book.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Other_Side_of_Me",
+                6
+            ],
+            [
+                "The_Other_Side_of_Dawn",
+                3
+            ],
+            [
+                "See_You_on_the_Other_Side",
+                0
+            ],
+            [
+                "See_You_on_the_Other_Side",
+                3
+            ],
+            [
+                "See_You_on_the_Other_Side",
+                5
+            ]
+        ]
+    },
+    "55836": {
+        "claim": "Java is in films.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Lily_van_Java",
+                0
+            ],
+            [
+                "Hadidjah",
+                0
+            ],
+            [
+                "Lily_van_Java",
+                2
+            ],
+            [
+                "JMDB",
+                4
+            ],
+            [
+                "Java_Platform,_Standard_Edition",
+                6
+            ]
+        ]
+    },
+    "195510": {
+        "claim": "William Howard Taft declined offers of candy to a federal court.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Justice_Taft_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "List_of_federal_judges_appointed_by_William_Howard_Taft",
+                0
+            ],
+            [
+                "Taft_High_School",
+                3
+            ],
+            [
+                "Taft_High_School",
+                23
+            ],
+            [
+                "Taft_High_School",
+                6
+            ]
+        ]
+    },
+    "55835": {
+        "claim": "Sausage Party was only written by Barack Obama.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Barack_Obama-COLON-_The_Story",
+                0
+            ],
+            [
+                "The_Other_Barack",
+                0
+            ],
+            [
+                "The_Other_Barack",
+                2
+            ],
+            [
+                "Obama's_Last_Stand",
+                0
+            ],
+            [
+                "Timeline_of_the_presidency_of_Barack_Obama",
+                0
+            ]
+        ]
+    },
+    "117251": {
+        "claim": "Cambridgeshire's local government is divided between Cambridgeshire County Council and Peterborough City Council.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "List_of_Local_Nature_Reserves_in_Cambridgeshire",
+                7
+            ],
+            [
+                "Cambridgeshire",
+                7
+            ],
+            [
+                "Cambridgeshire_and_Peterborough_mayoral_election,_2017",
+                5
+            ],
+            [
+                "List_of_Local_Nature_Reserves_in_Cambridgeshire",
+                8
+            ],
+            [
+                "Cambridgeshire",
+                8
+            ]
+        ]
+    },
+    "117520": {
+        "claim": "The host of The Joy of Painting was Bob Ross.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Magic_of_Oil_Painting",
+                2
+            ],
+            [
+                "Alizarin_crimson_-LRB-color-RRB-",
+                2
+            ],
+            [
+                "Bob_Ross",
+                1
+            ],
+            [
+                "The_Joy_of_Painting",
+                0
+            ],
+            [
+                "Bill_Alexander_-LRB-painter-RRB-",
+                1
+            ]
+        ]
+    },
+    "80597": {
+        "claim": "Scaramouche is French for \"little skirmisher\".",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Scaramouche",
+                0
+            ],
+            [
+                "Scaramouche_-LRB-novel-RRB-",
+                1
+            ],
+            [
+                "Scaramouche_-LRB-1952_film-RRB-",
+                0
+            ],
+            [
+                "Scaramouche_-LRB-novel-RRB-",
+                0
+            ],
+            [
+                "Scaramouche_-LRB-novel-RRB-",
+                2
+            ]
+        ]
+    },
+    "16701": {
+        "claim": "Lucy Hale was in American Juniors.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "American_Juniors_-LRB-album-RRB-",
+                0
+            ],
+            [
+                "Lucy_Hale",
+                2
+            ],
+            [
+                "American_Juniors_-LRB-album-RRB-",
+                3
+            ],
+            [
+                "Lucy_Hale",
+                1
+            ],
+            [
+                "American_Juniors_-LRB-group-RRB-",
+                3
+            ]
+        ]
+    },
+    "80590": {
+        "claim": "Elizabeth of York married someone.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "John_Tunnicliff",
+                2
+            ],
+            [
+                "Elizabeth_Harrison_Walker",
+                0
+            ],
+            [
+                "Elizabeth_Harrison_Walker",
+                6
+            ],
+            [
+                "Henry_Abbot_-LRB-martyr-RRB-",
+                0
+            ],
+            [
+                "Elizabeth_Chamberlain",
+                3
+            ]
+        ]
+    },
+    "88023": {
+        "claim": "Personality is unaffected by the development of social relationships.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Communitarianism",
+                1
+            ],
+            [
+                "Melanie_Killen",
+                1
+            ],
+            [
+                "Personality",
+                0
+            ],
+            [
+                "Sociotropy",
+                0
+            ],
+            [
+                "Social_penetration_theory",
+                0
+            ]
+        ]
+    },
+    "88712": {
+        "claim": "Manchester United has had two home fields.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Ewen_Fields",
+                0
+            ],
+            [
+                "Manchester_United_F.C._Reserves_and_Academy",
+                18
+            ],
+            [
+                "Manchester_United_F.C._Reserves_and_Academy",
+                21
+            ],
+            [
+                "Gorse_Hill",
+                3
+            ],
+            [
+                "Manchester_United_F.C._Reserves_and_Academy",
+                15
+            ]
+        ]
+    },
+    "149204": {
+        "claim": "Superhuman abilities may result from human enhancement by nanotechnology developed by MIT.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Superhuman",
+                6
+            ],
+            [
+                "Superhuman_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "A_god_Somewhere",
+                4
+            ],
+            [
+                "Superhuman_-LRB-disambiguation-RRB-",
+                3
+            ],
+            [
+                "Mutant_-LRB-fictional-RRB-",
+                1
+            ]
+        ]
+    },
+    "12015": {
+        "claim": "Floyd Mayweather Jr. has made 30 career boxing knockouts.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Roger_Mayweather",
+                5
+            ],
+            [
+                "Al_Haymon",
+                3
+            ],
+            [
+                "Floyd_Mayweather_Jr._vs._Ricky_Hatton",
+                0
+            ],
+            [
+                "Mayweather",
+                11
+            ],
+            [
+                "Floyd_Mayweather_Sr.",
+                2
+            ]
+        ]
+    },
+    "214786": {
+        "claim": "The Tracey Fragments had a hiatus on September 12.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Tracey_Fragments_-LRB-film-RRB-",
+                6
+            ],
+            [
+                "The_Tracey_Fragments_-LRB-film-RRB-",
+                0
+            ],
+            [
+                "Tracey_Mission",
+                5
+            ],
+            [
+                "Maureen_Medved",
+                3
+            ],
+            [
+                "The_Tracey_Fragments_-LRB-novel-RRB-",
+                0
+            ]
+        ]
+    },
+    "12016": {
+        "claim": "Floyd Mayweather Jr. is incapable of boxing.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Roger_Mayweather",
+                5
+            ],
+            [
+                "Floyd_Mayweather_Jr._vs._Ricky_Hatton",
+                0
+            ],
+            [
+                "Mayweather",
+                11
+            ],
+            [
+                "Al_Haymon",
+                3
+            ],
+            [
+                "Mayweather",
+                5
+            ]
+        ]
+    },
+    "182675": {
+        "claim": "Nina Jacobson was born in 1965.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Nina_Jacobson",
+                0
+            ],
+            [
+                "Pose_-LRB-TV_series-RRB-",
+                2
+            ],
+            [
+                "Ethel_May_Jacobson",
+                0
+            ],
+            [
+                "Nina_Agatha_Rosamond_Barrer",
+                0
+            ],
+            [
+                "Nina_Davies",
+                3
+            ]
+        ]
+    },
+    "214784": {
+        "claim": "The Tracey Fragments had a premiere on August 12.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Tracey_Fragments_-LRB-film-RRB-",
+                6
+            ],
+            [
+                "The_Tracey_Fragments_-LRB-film-RRB-",
+                0
+            ],
+            [
+                "The_Tracey_Fragments_-LRB-film-RRB-",
+                4
+            ],
+            [
+                "Girl_vs._Monster",
+                4
+            ],
+            [
+                "Medicine_for_Melancholy",
+                4
+            ]
+        ]
+    },
+    "116786": {
+        "claim": "Matt Bomer was only born on May 11, 1977.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Matt_Bomer",
+                0
+            ],
+            [
+                "Bomer",
+                4
+            ],
+            [
+                "Bryce_Larkin",
+                3
+            ],
+            [
+                "Bomer",
+                6
+            ],
+            [
+                "Matt_Bomer",
+                5
+            ]
+        ]
+    },
+    "116789": {
+        "claim": "Minor League Baseball is a hierarchy of only amateur baseball leagues.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Minor_League_Baseball",
+                0
+            ],
+            [
+                "Michigan_State_League",
+                5
+            ],
+            [
+                "Elmira_Pioneers",
+                2
+            ],
+            [
+                "Minor_League_Baseball",
+                3
+            ],
+            [
+                "Minor_League_Baseball",
+                10
+            ]
+        ]
+    },
+    "17252": {
+        "claim": "The 2013 Africa Cup of Nations was the first held in an odd-numbered year, leading to a 3-year gap between the 2010 and 2013 tournaments.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Africa_Cup_of_Nations",
+                17
+            ],
+            [
+                "2013_Africa_Cup_of_Nations_Final",
+                0
+            ],
+            [
+                "2013_Africa_Cup_of_Nations",
+                0
+            ],
+            [
+                "Africa_Cup_of_Nations",
+                21
+            ],
+            [
+                "Presidents_Cup",
+                6
+            ]
+        ]
+    },
+    "119863": {
+        "claim": "Daenerys Targaryen is a character in A Song of Ice and Fire.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Missandei",
+                0
+            ],
+            [
+                "Olenna_Tyrell",
+                0
+            ],
+            [
+                "Viserys_Targaryen",
+                0
+            ],
+            [
+                "List_of_A_Song_of_Ice_and_Fire_characters",
+                0
+            ],
+            [
+                "Dothraki_language",
+                0
+            ]
+        ]
+    },
+    "221144": {
+        "claim": "Ted Cruz has served as the junior United States Hamburgerler from Texas since 2013",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Ted_Cruz",
+                0
+            ],
+            [
+                "Faith_West_Academy",
+                7
+            ],
+            [
+                "Ted_Cruz",
+                5
+            ],
+            [
+                "Ted_Cruz",
+                8
+            ],
+            [
+                "Edward_Cruz",
+                3
+            ]
+        ]
+    },
+    "107539": {
+        "claim": "Moscovium is a halogen.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Moscovium",
+                6
+            ],
+            [
+                "Halogen_dance_rearrangement",
+                0
+            ],
+            [
+                "Halogen_oven",
+                0
+            ],
+            [
+                "Moscovium",
+                0
+            ],
+            [
+                "Moscovium",
+                9
+            ]
+        ]
+    },
+    "53733": {
+        "claim": "Georgians arose from the ancient Colchian civilizations.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Georgians",
+                4
+            ],
+            [
+                "Cradle_of_civilization",
+                2
+            ],
+            [
+                "Cradle_of_civilization",
+                1
+            ],
+            [
+                "Cradle_of_civilization",
+                8
+            ],
+            [
+                "Peter_Kolosimo",
+                2
+            ]
+        ]
+    },
+    "69722": {
+        "claim": "Kajol is a civilian woman.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Fanaa_-LRB-film-RRB-",
+                4
+            ],
+            [
+                "Kajol",
+                9
+            ],
+            [
+                "Woman's_Land_Army_of_America",
+                0
+            ],
+            [
+                "Zee_Cine_Award_for_Best_Performance_in_a_Negative_Role",
+                3
+            ],
+            [
+                "Kajol",
+                4
+            ]
+        ]
+    },
+    "53734": {
+        "claim": "Georgians arose from the ancient Ethiopian civilizations.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Georgians",
+                4
+            ],
+            [
+                "Cradle_of_civilization",
+                2
+            ],
+            [
+                "Cradle_of_civilization",
+                1
+            ],
+            [
+                "Cradle_of_civilization",
+                8
+            ],
+            [
+                "Peter_Kolosimo",
+                2
+            ]
+        ]
+    },
+    "46793": {
+        "claim": "Doxycycline may cause diarrhea in children.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Diarrhea",
+                33
+            ],
+            [
+                "Diarrhea",
+                32
+            ],
+            [
+                "Diarrhea",
+                30
+            ],
+            [
+                "Enterotoxigenic_Escherichia_coli",
+                0
+            ],
+            [
+                "Diarrhea",
+                9
+            ]
+        ]
+    },
+    "46792": {
+        "claim": "Doxycycline may cause diarrhea.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Diarrhea",
+                33
+            ],
+            [
+                "Bile_acid_malabsorption",
+                0
+            ],
+            [
+                "Diarrhea",
+                9
+            ],
+            [
+                "Doxycycline",
+                6
+            ],
+            [
+                "Diarrhea",
+                7
+            ]
+        ]
+    },
+    "123189": {
+        "claim": "See You on the Other Side was put out by Blink 182.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "David_Kennedy_-LRB-musician-RRB-",
+                5
+            ],
+            [
+                "David_Kennedy_-LRB-musician-RRB-",
+                4
+            ],
+            [
+                "List_of_Blink-182_tribute_albums",
+                2
+            ],
+            [
+                "Summer_Tour_2004_-LRB-Blink-182_and_No_Doubt-RRB-",
+                0
+            ],
+            [
+                "David_Kennedy_-LRB-musician-RRB-",
+                6
+            ]
+        ]
+    },
+    "24885": {
+        "claim": "Jefferson Davis grew up on cotton plantations.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Davis_Island_-LRB-Mississippi-RRB-",
+                17
+            ],
+            [
+                "Davis_Island_-LRB-Mississippi-RRB-",
+                9
+            ],
+            [
+                "List_of_memorials_to_Jefferson_Davis",
+                15
+            ],
+            [
+                "Davis_Island_-LRB-Mississippi-RRB-",
+                12
+            ],
+            [
+                "Davis_Island_-LRB-Mississippi-RRB-",
+                13
+            ]
+        ]
+    },
+    "84123": {
+        "claim": "Ares is a deity.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Ares_I",
+                1
+            ],
+            [
+                "Children_of_Ares",
+                0
+            ],
+            [
+                "Maher_-LRB-god-RRB-",
+                1
+            ],
+            [
+                "Ares_Lusitani",
+                0
+            ],
+            [
+                "God_-LRB-male_deity-RRB-",
+                0
+            ]
+        ]
+    },
+    "141434": {
+        "claim": "Stephen King is the publisher of 54 novels.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Unpublished_and_uncollected_works_by_Stephen_King",
+                0
+            ],
+            [
+                "Donald_M._Grant,_Publisher",
+                1
+            ],
+            [
+                "The_Dark_Tower_-LRB-comics-RRB-",
+                0
+            ],
+            [
+                "Places_in_The_Dark_Tower_series",
+                0
+            ],
+            [
+                "Unpublished_and_uncollected_works_by_Stephen_King",
+                2
+            ]
+        ]
+    },
+    "92429": {
+        "claim": "Jewish people turn towards Temple Mount during prayer.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "1990_Temple_Mount_riots",
+                0
+            ],
+            [
+                "Mizrah",
+                1
+            ],
+            [
+                "Chaim_Richman",
+                6
+            ],
+            [
+                "Third_Temple",
+                1
+            ],
+            [
+                "1990_Temple_Mount_riots",
+                1
+            ]
+        ]
+    },
+    "124353": {
+        "claim": "Cars 3 is a computer animated Pixar movie.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Cars_3",
+                0
+            ],
+            [
+                "Sally_Carrera",
+                0
+            ],
+            [
+                "Hawaiian_Vacation",
+                0
+            ],
+            [
+                "Lou_-LRB-2017_film-RRB-",
+                0
+            ],
+            [
+                "Mater_and_the_Ghostlight",
+                0
+            ]
+        ]
+    },
+    "192795": {
+        "claim": "A staging area is only an unused piece of land.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Lac-Metei,_Quebec",
+                5
+            ],
+            [
+                "Iskandar_Airport",
+                2
+            ],
+            [
+                "Milingimbi_Islands_Important_Bird_Area",
+                0
+            ],
+            [
+                "Milingimbi_Islands_Important_Bird_Area",
+                1
+            ],
+            [
+                "Rudolf_Island",
+                3
+            ]
+        ]
+    },
+    "192792": {
+        "claim": "A staging area is only an unused piece of land.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Lac-Metei,_Quebec",
+                5
+            ],
+            [
+                "Iskandar_Airport",
+                2
+            ],
+            [
+                "Milingimbi_Islands_Important_Bird_Area",
+                0
+            ],
+            [
+                "Milingimbi_Islands_Important_Bird_Area",
+                1
+            ],
+            [
+                "Rudolf_Island",
+                3
+            ]
+        ]
+    },
+    "192793": {
+        "claim": "A staging area is only an unused piece of land.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Lac-Metei,_Quebec",
+                5
+            ],
+            [
+                "Iskandar_Airport",
+                2
+            ],
+            [
+                "Milingimbi_Islands_Important_Bird_Area",
+                0
+            ],
+            [
+                "Milingimbi_Islands_Important_Bird_Area",
+                1
+            ],
+            [
+                "Rudolf_Island",
+                3
+            ]
+        ]
+    },
+    "192790": {
+        "claim": "A staging area is a location.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Staging_area",
+                0
+            ],
+            [
+                "Staging",
+                14
+            ],
+            [
+                "Hypergol_Maintenance_Facility",
+                0
+            ],
+            [
+                "Hypergol_Maintenance_Facility",
+                11
+            ],
+            [
+                "Hypergol_Maintenance_Facility",
+                20
+            ]
+        ]
+    },
+    "69178": {
+        "claim": "The Catcher in the Rye never deals with issues of innocence and connection.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Catcher_in_the_Rye",
+                6
+            ],
+            [
+                "The_Catcher_in_the_Rye",
+                0
+            ],
+            [
+                "J._D._Salinger",
+                0
+            ],
+            [
+                "J._D._Salinger",
+                1
+            ],
+            [
+                "J._D._Salinger",
+                10
+            ]
+        ]
+    },
+    "45447": {
+        "claim": "Robert Zemeckis has directed theater.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Used_Cars",
+                0
+            ],
+            [
+                "Used_Cars",
+                6
+            ],
+            [
+                "Romancing_the_Stone",
+                1
+            ],
+            [
+                "Used_Cars",
+                10
+            ],
+            [
+                "Romancing_the_Stone",
+                6
+            ]
+        ]
+    },
+    "134617": {
+        "claim": "Mandy Moore is not an American.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Mandy_Moore_-LRB-album-RRB-",
+                0
+            ],
+            [
+                "License_to_Wed",
+                0
+            ],
+            [
+                "The_Best_of_Mandy_Moore",
+                0
+            ],
+            [
+                "Mandy_Moore_-LRB-album-RRB-",
+                2
+            ],
+            [
+                "The_Best_of_Mandy_Moore",
+                3
+            ]
+        ]
+    },
+    "153808": {
+        "claim": "Veep has not won an award in Comedy.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Veep",
+                8
+            ],
+            [
+                "Tony_Hale",
+                2
+            ],
+            [
+                "List_of_awards_and_nominations_received_by_Julia_Louis-Dreyfus",
+                4
+            ],
+            [
+                "Veep",
+                7
+            ],
+            [
+                "Veep",
+                9
+            ]
+        ]
+    },
+    "64909": {
+        "claim": "James Brolin appeared in soap operas.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "James_Brolin",
+                0
+            ],
+            [
+                "Armenian_soap_operas",
+                0
+            ],
+            [
+                "Brolin",
+                6
+            ],
+            [
+                "Sam_Brodie_-LRB-actor-RRB-",
+                0
+            ],
+            [
+                "Armenian_soap_operas",
+                2
+            ]
+        ]
+    },
+    "168083": {
+        "claim": "Jean-Jacques Dessalines was conceived on September 20th, 1758.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Jean-Jacques_Dessalines",
+                0
+            ],
+            [
+                "Dessalines",
+                6
+            ],
+            [
+                "Dessalines",
+                1
+            ],
+            [
+                "Grande-Rivi\u00e8re-du-Nord",
+                1
+            ],
+            [
+                "Jean-Jacques_Dessalines",
+                1
+            ]
+        ]
+    },
+    "133349": {
+        "claim": "Anneliese van der Pol had an early career in science.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "That's_So_Raven_Too!",
+                4
+            ],
+            [
+                "That's_So_Raven_Too!",
+                6
+            ],
+            [
+                "Anneliese_van_der_Pol",
+                0
+            ],
+            [
+                "Anneliese_van_der_Pol",
+                2
+            ],
+            [
+                "Van_der_Pol",
+                0
+            ]
+        ]
+    },
+    "168086": {
+        "claim": "Jean-Jacques Dessalines ruled over a territory.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Dessalines_Arrondissement",
+                2
+            ],
+            [
+                "Dessalines_-LRB-disambiguation-RRB-",
+                3
+            ],
+            [
+                "Dessalines",
+                1
+            ],
+            [
+                "Dessalines",
+                6
+            ],
+            [
+                "Petite_Rivi\u00e8re_de_l'Artibonite",
+                4
+            ]
+        ]
+    },
+    "168085": {
+        "claim": "Jean-Jacques Dessalines was the second ruler of independent Puerto Rico.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Jean-Jacques_Dessalines",
+                0
+            ],
+            [
+                "Dessalines",
+                1
+            ],
+            [
+                "Dessalines",
+                6
+            ],
+            [
+                "Jean-Jacques_Dessalines",
+                12
+            ],
+            [
+                "Dessalines_-LRB-disambiguation-RRB-",
+                3
+            ]
+        ]
+    },
+    "125408": {
+        "claim": "Elizabeth Olsen is a producer.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Mary-Kate_Olsen",
+                0
+            ],
+            [
+                "Ashley_Olsen",
+                0
+            ],
+            [
+                "Mary-Kate_Olsen",
+                1
+            ],
+            [
+                "Mary-Kate_Olsen",
+                3
+            ],
+            [
+                "Mark_V._Olsen",
+                0
+            ]
+        ]
+    },
+    "85619": {
+        "claim": "The Selma to Montgomery marches were part of a broader voting rights movement underway in Tuscaloosa.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Selma,_Alabama",
+                4
+            ],
+            [
+                "J._L._Chestnut",
+                2
+            ],
+            [
+                "National_Voting_Rights_Museum",
+                0
+            ],
+            [
+                "National_Voting_Rights_Museum",
+                14
+            ],
+            [
+                "Brown_Chapel_A.M.E._Church_-LRB-Selma,_Alabama-RRB-",
+                1
+            ]
+        ]
+    },
+    "44240": {
+        "claim": "Amancio Ortega refuses to be a businessman.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Zara_-LRB-retailer-RRB-",
+                1
+            ],
+            [
+                "Rosal\u00eda_Mera",
+                2
+            ],
+            [
+                "Amancio_Ortega",
+                0
+            ],
+            [
+                "Carlos_Ortega_-LRB-businessman-RRB-",
+                0
+            ],
+            [
+                "Carlos_Ortega_-LRB-businessman-RRB-",
+                3
+            ]
+        ]
+    },
+    "44795": {
+        "claim": "Macklemore is a country singer.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Macklemore_&_Ryan_Lewis",
+                1
+            ],
+            [
+                "Macklemore_discography",
+                0
+            ],
+            [
+                "Ray_Dalton",
+                2
+            ],
+            [
+                "Hollis_-LRB-singer-RRB-",
+                0
+            ],
+            [
+                "Macklemore_discography",
+                1
+            ]
+        ]
+    },
+    "58078": {
+        "claim": "James, Viscount Severn was born in Manchester.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "James,_Viscount_Severn",
+                0
+            ],
+            [
+                "James_Higson",
+                2
+            ],
+            [
+                "James_Hopkins_-LRB-footballer,_born_1876-RRB-",
+                0
+            ],
+            [
+                "George_Montagu,_4th_Duke_of_Manchester",
+                3
+            ],
+            [
+                "George_Montagu,_4th_Duke_of_Manchester",
+                11
+            ]
+        ]
+    },
+    "58075": {
+        "claim": "Ragtime is the final dancing role of James Cagney.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Ragtime_-LRB-film-RRB-",
+                2
+            ],
+            [
+                "Terrible_Joe_Moran",
+                1
+            ],
+            [
+                "Edward_Woods",
+                1
+            ],
+            [
+                "Run_for_Cover_-LRB-film-RRB-",
+                0
+            ],
+            [
+                "Ragtime_-LRB-film-RRB-",
+                0
+            ]
+        ]
+    },
+    "58076": {
+        "claim": "China has no government.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Rape_in_China",
+                3
+            ],
+            [
+                "China_Life_Insurance_Company",
+                3
+            ],
+            [
+                "China_Life_Insurance_Company",
+                10
+            ],
+            [
+                "China_Life_Insurance_Company",
+                6
+            ],
+            [
+                "Japan\u2013Taiwan_relations",
+                0
+            ]
+        ]
+    },
+    "135964": {
+        "claim": "The Premier League Asia Trophy was formerly called the grave digger.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Premier_League_Asia_Trophy",
+                0
+            ],
+            [
+                "2011_Premier_League_Asia_Trophy",
+                0
+            ],
+            [
+                "2015_Premier_League_Asia_Trophy",
+                0
+            ],
+            [
+                "2009_Premier_League_Asia_Trophy",
+                0
+            ],
+            [
+                "Premier_League_Asia_Trophy",
+                13
+            ]
+        ]
+    },
+    "49306": {
+        "claim": "San Francisco Bay Area contains zero cities.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "San_Francisco_Bay",
+                1
+            ],
+            [
+                "Diablo_Valley",
+                0
+            ],
+            [
+                "List_of_Michelin_starred_restaurants_in_the_San_Francisco_Bay_Area",
+                2
+            ],
+            [
+                "List_of_Michelin_starred_restaurants_in_the_San_Francisco_Bay_Area",
+                0
+            ],
+            [
+                "San_Francisco_Bay",
+                5
+            ]
+        ]
+    },
+    "116125": {
+        "claim": "Richard Dawson was not a game show host in the United States.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Richard_Dawson_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "Richard_Dawson",
+                0
+            ],
+            [
+                "5th_Daytime_Emmy_Awards",
+                1
+            ],
+            [
+                "Says_You!",
+                1
+            ],
+            [
+                "Says_You!",
+                3
+            ]
+        ]
+    },
+    "38501": {
+        "claim": "Edouard Seguin worked in murdering.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Juan_Segu\u00edn",
+                1
+            ],
+            [
+                "Seguin_Independent_School_District",
+                0
+            ],
+            [
+                "Hurricane_Edouard",
+                0
+            ],
+            [
+                "Seguin_High_School",
+                5
+            ],
+            [
+                "Seguin_Independent_School_District",
+                3
+            ]
+        ]
+    },
+    "38500": {
+        "claim": "Mikhail Prokhorov was the chairman of Russia's largest gold producer from 2000 to 2005.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Mikhail_Prokhorov",
+                3
+            ],
+            [
+                "Renaissance_Capital_-LRB-Russian_company-RRB-",
+                9
+            ],
+            [
+                "Polyus_Gold",
+                0
+            ],
+            [
+                "Polyus_Gold",
+                1
+            ],
+            [
+                "Mikhail_Prokhorov",
+                2
+            ]
+        ]
+    },
+    "164418": {
+        "claim": "Carey Hayes was born in Portland, Oregon in 1897.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                3
+            ],
+            [
+                "Carey_Hayes",
+                0
+            ],
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                0
+            ],
+            [
+                "List_of_people_from_Portland,_Oregon",
+                2
+            ],
+            [
+                "List_of_people_from_Portland,_Oregon",
+                0
+            ]
+        ]
+    },
+    "164419": {
+        "claim": "Carey Hayes is an Indian producer.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Carey_Hayes",
+                0
+            ],
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                0
+            ],
+            [
+                "Charles_Carey",
+                7
+            ],
+            [
+                "Isaac_Hayes_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "Isaac_Hayes_-LRB-disambiguation-RRB-",
+                5
+            ]
+        ]
+    },
+    "164414": {
+        "claim": "Carey Hayes was born in June of 1961.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                0
+            ],
+            [
+                "Carey_Hayes",
+                0
+            ],
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                3
+            ],
+            [
+                "Willie_Hayes",
+                0
+            ],
+            [
+                "Martin_Hayes",
+                5
+            ]
+        ]
+    },
+    "84691": {
+        "claim": "John S. McCain Jr. was expelled in 1931.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "USS_John_S._McCain",
+                0
+            ],
+            [
+                "USS_John_S._McCain_-LRB-DDG-56-RRB-",
+                5
+            ],
+            [
+                "William_David_McCain",
+                4
+            ],
+            [
+                "Faith_of_My_Fathers",
+                3
+            ],
+            [
+                "USS_John_S._McCain_-LRB-DDG-56-RRB-",
+                7
+            ]
+        ]
+    },
+    "164417": {
+        "claim": "Carey Hayes was born in 1897.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                0
+            ],
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                3
+            ],
+            [
+                "Willie_Hayes",
+                0
+            ],
+            [
+                "Carey,_California",
+                4
+            ],
+            [
+                "The_Dark_Side_of_the_Moon_-LRB-1990_film-RRB-",
+                1
+            ]
+        ]
+    },
+    "116129": {
+        "claim": "Salt River Valley is a river valley that contains the Phoenix metropolitan area.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Phoenix_metropolitan_area",
+                0
+            ],
+            [
+                "Salt_River_Valley",
+                0
+            ],
+            [
+                "Salt_River_Project",
+                0
+            ],
+            [
+                "Phoenix_Metro",
+                3
+            ],
+            [
+                "Salt_River_Project",
+                4
+            ]
+        ]
+    },
+    "164411": {
+        "claim": "Carey Hayes died in April of 1961.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Chad_Hayes_-LRB-writer-RRB-",
+                0
+            ],
+            [
+                "Carey_Hayes",
+                0
+            ],
+            [
+                "Willie_Hayes",
+                4
+            ],
+            [
+                "Kenneth_Carey_-LRB-bishop-RRB-",
+                0
+            ],
+            [
+                "Willie_Hayes",
+                5
+            ]
+        ]
+    },
+    "94159": {
+        "claim": "Jack Dylan Grazer was born in the month of September.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Jack_Dylan_Grazer",
+                0
+            ],
+            [
+                "Bob_Dylan's_Dream",
+                1
+            ],
+            [
+                "Me,_Myself_&_I_-LRB-TV_series-RRB-",
+                1
+            ],
+            [
+                "Outlaw_Blues_-LRB-Bob_Dylan_song-RRB-",
+                7
+            ],
+            [
+                "Outlaw_Blues_-LRB-Bob_Dylan_song-RRB-",
+                8
+            ]
+        ]
+    },
+    "36844": {
+        "claim": "Watchmen explores the superhero genre through a dark satirical and dystopian lens.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "The_Mighty_Magnor",
+                1
+            ],
+            [
+                "Modern_Age_of_Comic_Books",
+                4
+            ],
+            [
+                "Modern_Age_of_Comic_Books",
+                0
+            ],
+            [
+                "Minutemen_-LRB-comics-RRB-",
+                7
+            ],
+            [
+                "Megaton_Man",
+                0
+            ]
+        ]
+    },
+    "36843": {
+        "claim": "Watchmen is a dark satirical and dystopian take on the superhero genre.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Watchmen_-LRB-film-RRB-",
+                2
+            ],
+            [
+                "The_Mighty_Magnor",
+                1
+            ],
+            [
+                "Watchmen_-LRB-film-RRB-",
+                0
+            ],
+            [
+                "Watchmen_-LRB-film-RRB-",
+                5
+            ],
+            [
+                "Watchmen_-LRB-film-RRB-",
+                10
+            ]
+        ]
+    },
+    "71281": {
+        "claim": "Konidela Production Company was disestablished by the son of Chiranjeevi.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Ram_Charan",
+                5
+            ],
+            [
+                "Anjana_Productions",
+                0
+            ],
+            [
+                "Norsk_Film",
+                0
+            ],
+            [
+                "Nagendra_Babu",
+                8
+            ],
+            [
+                "Anjana_Productions",
+                4
+            ]
+        ]
+    },
+    "68280": {
+        "claim": "Babur was born on May 14, 1783.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Babur",
+                0
+            ],
+            [
+                "Gabrijel_Smi\u010diklas",
+                4
+            ],
+            [
+                "Gabrijel_Smi\u010diklas",
+                0
+            ],
+            [
+                "Babur",
+                25
+            ],
+            [
+                "Fakhr-un-Nissa",
+                3
+            ]
+        ]
+    },
+    "68283": {
+        "claim": "The Marvel Comics character Daredevil is the basis for the TV series of the same name.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Mutant_X",
+                5
+            ],
+            [
+                "Daredevil_-LRB-Marvel_Comics_series-RRB-",
+                0
+            ],
+            [
+                "Mutant_X",
+                7
+            ],
+            [
+                "Karen_Page",
+                0
+            ],
+            [
+                "Dakota_North_-LRB-comics-RRB-",
+                1
+            ]
+        ]
+    },
+    "68282": {
+        "claim": "Daredevil is based on the Marvel Comics character of the same name.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Daredevil_-LRB-Marvel_Comics_series-RRB-",
+                0
+            ],
+            [
+                "Karen_Page",
+                0
+            ],
+            [
+                "Sigyn_-LRB-Marvel_Comics-RRB-",
+                0
+            ],
+            [
+                "Sigyn_-LRB-Marvel_Comics-RRB-",
+                1
+            ],
+            [
+                "Spider-Man_-LRB-1981_TV_series-RRB-",
+                0
+            ]
+        ]
+    },
+    "61171": {
+        "claim": "Stephen King has published 54 novels.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Dark_Tower-COLON-_The_Fall_of_Gilead",
+                3
+            ],
+            [
+                "The_Dark_Tower-COLON-_The_Little_Sisters_of_Eluria",
+                1
+            ],
+            [
+                "The_Dark_Tower_-LRB-comics-RRB-",
+                0
+            ],
+            [
+                "Unpublished_and_uncollected_works_by_Stephen_King",
+                0
+            ],
+            [
+                "Unpublished_and_uncollected_works_by_Stephen_King",
+                4
+            ]
+        ]
+    },
+    "68289": {
+        "claim": "Cars 3 will be directed by someone working for potato chips.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Cape_Cod_Potato_Chips",
+                0
+            ],
+            [
+                "Samboy",
+                1
+            ],
+            [
+                "Better_Made_Potato_Chips_Inc.",
+                0
+            ],
+            [
+                "Cape_Cod_Potato_Chips",
+                2
+            ],
+            [
+                "Samboy",
+                0
+            ]
+        ]
+    },
+    "58212": {
+        "claim": "Salman Rushdie wrote a novel based on France.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Luka_and_the_Fire_of_Life",
+                0
+            ],
+            [
+                "The_Enchantress_of_Florence",
+                0
+            ],
+            [
+                "The_Moor's_Last_Sigh",
+                0
+            ],
+            [
+                "Luka_and_the_Fire_of_Life",
+                3
+            ],
+            [
+                "Fury_-LRB-Rushdie_novel-RRB-",
+                0
+            ]
+        ]
+    },
+    "112954": {
+        "claim": "In North America, Warcraft was released by Universal Pictures.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Warcraft_-LRB-film-RRB-",
+                7
+            ],
+            [
+                "The_Visit_-LRB-2015_American_film-RRB-",
+                1
+            ],
+            [
+                "Jurassic_Park_Interactive",
+                1
+            ],
+            [
+                "World_of_Warcraft-COLON-_The_Burning_Crusade",
+                1
+            ],
+            [
+                "Supreme_Warrior",
+                1
+            ]
+        ]
+    },
+    "61172": {
+        "claim": "Stephen King has only published 6 novels.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "The_Dark_Tower-COLON-_The_Fall_of_Gilead",
+                3
+            ],
+            [
+                "The_Dark_Tower-COLON-_The_Little_Sisters_of_Eluria",
+                1
+            ],
+            [
+                "The_Dark_Tower_-LRB-comics-RRB-",
+                0
+            ],
+            [
+                "Unpublished_and_uncollected_works_by_Stephen_King",
+                0
+            ],
+            [
+                "Unpublished_and_uncollected_works_by_Stephen_King",
+                4
+            ]
+        ]
+    },
+    "96": {
+        "claim": "General Motors had only one automotive-component.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Lithia_Motors",
+                3
+            ],
+            [
+                "Jerry_Hirshberg",
+                1
+            ],
+            [
+                "Lithia_Motors",
+                0
+            ],
+            [
+                "Lithia_Motors",
+                4
+            ],
+            [
+                "Harrison_Radiator_Corporation",
+                0
+            ]
+        ]
+    },
+    "76627": {
+        "claim": "The character Poe Dameron was portrayed by Oscar Isaac.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Oscar_Isaac",
+                0
+            ],
+            [
+                "Poe_Dameron",
+                1
+            ],
+            [
+                "Oscar_Isaac",
+                7
+            ],
+            [
+                "Poe_Dameron",
+                0
+            ],
+            [
+                "Poe_Dameron",
+                4
+            ]
+        ]
+    },
+    "188966": {
+        "claim": "William Cohen is Catholic.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "William_Cohen_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "William_Cohen_-LRB-disambiguation-RRB-",
+                3
+            ],
+            [
+                "William_Cohen_-LRB-disambiguation-RRB-",
+                5
+            ],
+            [
+                "William_Cohen_-LRB-disambiguation-RRB-",
+                7
+            ],
+            [
+                "Cohen_syndrome",
+                0
+            ]
+        ]
+    },
+    "188967": {
+        "claim": "William Cohen is a politician.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Eli_Cohen_-LRB-disambiguation-RRB-",
+                7
+            ],
+            [
+                "Eli_Cohen_-LRB-disambiguation-RRB-",
+                9
+            ],
+            [
+                "William_Cohen_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "Gerry_Cohen",
+                3
+            ],
+            [
+                "William_Cohen",
+                0
+            ]
+        ]
+    },
+    "188965": {
+        "claim": "William Cohen is from a city.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Menachem_Cohen",
+                6
+            ],
+            [
+                "William_Edgar_Cohen",
+                0
+            ],
+            [
+                "William_Edgar_Cohen",
+                2
+            ],
+            [
+                "Mirit_Cohen",
+                0
+            ],
+            [
+                "Mirit_Cohen",
+                1
+            ]
+        ]
+    },
+    "118800": {
+        "claim": "Ronaldinho has played 97 football matches.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Ronaldinho",
+                10
+            ],
+            [
+                "1996\u201397_York_City_F.C._season",
+                0
+            ],
+            [
+                "Ronaldo_Rodrigues_de_Jesus",
+                3
+            ],
+            [
+                "Ronaldinho",
+                14
+            ],
+            [
+                "1996\u201397_York_City_F.C._season",
+                6
+            ]
+        ]
+    },
+    "188963": {
+        "claim": "William Cohen is Canadian.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Glenn_Cohen",
+                5
+            ],
+            [
+                "Nathan_Cohen",
+                3
+            ],
+            [
+                "Harry_Cohen_-LRB-disambiguation-RRB-",
+                5
+            ],
+            [
+                "William_Cohen_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "William_Cohen_-LRB-disambiguation-RRB-",
+                3
+            ]
+        ]
+    },
+    "107335": {
+        "claim": "Volkswagen Group designs only non-commercial vehicles.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Volkswagen_Commercial_Vehicles",
+                0
+            ],
+            [
+                "Gottfried_Schultz",
+                2
+            ],
+            [
+                "Volkswagen_LT",
+                0
+            ],
+            [
+                "Volkswagen_Caminh\u00f5es_e_\u00d4nibus",
+                4
+            ],
+            [
+                "Volkswagen_Caminh\u00f5es_e_\u00d4nibus",
+                0
+            ]
+        ]
+    },
+    "102711": {
+        "claim": "Arjit Singh goes unmentioned in the Indian media.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Mirza_Juuliet",
+                0
+            ],
+            [
+                "Taneja",
+                3
+            ],
+            [
+                "Shivendra_Singh_Chauhan",
+                0
+            ],
+            [
+                "Sameksha",
+                1
+            ],
+            [
+                "Sameksha",
+                0
+            ]
+        ]
+    },
+    "188969": {
+        "claim": "William Cohen comes from Maine.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "United_States_Senate_election_in_Maine,_1978",
+                1
+            ],
+            [
+                "William_Cohen",
+                0
+            ],
+            [
+                "Richard_S._Cohen",
+                0
+            ],
+            [
+                "Richard_S._Cohen",
+                1
+            ],
+            [
+                "Richard_S._Cohen",
+                5
+            ]
+        ]
+    },
+    "54172": {
+        "claim": "Scandal plays classic rock music.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Classic_Rock",
+                0
+            ],
+            [
+                "The_Christopher_Brothers",
+                2
+            ],
+            [
+                "WQAC",
+                1
+            ],
+            [
+                "WQAC",
+                3
+            ],
+            [
+                "Classic_Rock",
+                10
+            ]
+        ]
+    },
+    "89615": {
+        "claim": "Pocahontas was Brazilian.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Pocahontas_Historic_District",
+                1
+            ],
+            [
+                "Pocahontas_Times_Print_Shop",
+                2
+            ],
+            [
+                "Pocahontas-COLON-_The_Legend",
+                5
+            ],
+            [
+                "Pocahontas-COLON-_The_Legend",
+                0
+            ],
+            [
+                "Pocahontas_Historic_District",
+                0
+            ]
+        ]
+    },
+    "112048": {
+        "claim": "Psych (season 2) originally aired on the TNT Network.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Psych_-LRB-season_3-RRB-",
+                0
+            ],
+            [
+                "Psych_-LRB-season_4-RRB-",
+                0
+            ],
+            [
+                "Babylon_5-COLON-_In_the_Beginning",
+                4
+            ],
+            [
+                "Pilot_-LRB-Psych-RRB-",
+                1
+            ],
+            [
+                "Psych_-LRB-season_3-RRB-",
+                4
+            ]
+        ]
+    },
+    "79392": {
+        "claim": "Mutiny on the Bounty is an original film.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Mutiny_on_the_Bounty_-LRB-1962_film-RRB-",
+                0
+            ],
+            [
+                "Mutiny_on_the_Bounty_-LRB-disambiguation-RRB-",
+                17
+            ],
+            [
+                "Mutiny_on_the_Bounty_-LRB-disambiguation-RRB-",
+                21
+            ],
+            [
+                "Mutiny_on_the_Bounty_-LRB-disambiguation-RRB-",
+                23
+            ],
+            [
+                "Mutiny_on_the_Bounty_-LRB-1962_film-RRB-",
+                3
+            ]
+        ]
+    },
+    "79394": {
+        "claim": "P.S I Love You (film) is a drama based television show.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "P.S._I_Love_You_-LRB-film-RRB-",
+                0
+            ],
+            [
+                "Girls_in_Love_-LRB-TV_series-RRB-",
+                0
+            ],
+            [
+                "Legend_of_Love_-LRB-disambiguation-RRB-",
+                4
+            ],
+            [
+                "Susan_Blackwell",
+                0
+            ],
+            [
+                "P.S._-LRB-film-RRB-",
+                0
+            ]
+        ]
+    },
+    "94546": {
+        "claim": "A near-Earth object is not a small orbiting body.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Horseshoe_orbit",
+                0
+            ],
+            [
+                "Resident_Space_Object",
+                0
+            ],
+            [
+                "Horseshoe_orbit",
+                1
+            ],
+            [
+                "Horseshoe_orbit",
+                5
+            ],
+            [
+                "Resident_Space_Object",
+                2
+            ]
+        ]
+    },
+    "156656": {
+        "claim": "Melilla shares a border with a country.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Melilla_border_fence",
+                5
+            ],
+            [
+                "Melilla_border_fence",
+                0
+            ],
+            [
+                "B\u00ecnh_Ph\u01b0\u1edbc_Province",
+                2
+            ],
+            [
+                "Geography_of_Brunei",
+                4
+            ],
+            [
+                "Morocco\u2013Spain_border",
+                3
+            ]
+        ]
+    },
+    "99736": {
+        "claim": "Maggie Q starred in a Die Hard movie.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Die_Hard_Trilogy",
+                1
+            ],
+            [
+                "Die_Hard_Trilogy",
+                0
+            ],
+            [
+                "Die_Hard_Trilogy",
+                4
+            ],
+            [
+                "Nakatomi",
+                14
+            ],
+            [
+                "Skyscraper_-LRB-1996_film-RRB-",
+                2
+            ]
+        ]
+    },
+    "87101": {
+        "claim": "Dev Patel has worked with Krzysztof Kieslowski.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Dwando",
+                2
+            ],
+            [
+                "Kazimierz_Karabasz",
+                4
+            ],
+            [
+                "44th_Bodil_Awards",
+                3
+            ],
+            [
+                "Dhruva_Harsh",
+                1
+            ],
+            [
+                "Kazimierz_Karabasz",
+                1
+            ]
+        ]
+    },
+    "129459": {
+        "claim": "Azithromycin is available as a generic surgery.",
+        "label": "NOT ENOUGH INFO",
+        "evidence": [
+            [
+                "Azithromycin",
+                17
+            ],
+            [
+                "Pregabalin",
+                13
+            ],
+            [
+                "Pregabalin",
+                14
+            ],
+            [
+                "Pregabalin",
+                3
+            ],
+            [
+                "Salsalate",
+                4
+            ]
+        ]
+    },
+    "40966": {
+        "claim": "The Punisher is an anime.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Nicholas_D._Wolfwood",
+                0
+            ],
+            [
+                "Iron_Man-COLON-_Rise_of_Technovore",
+                0
+            ],
+            [
+                "Iron_Man-COLON-_Rise_of_Technovore",
+                2
+            ],
+            [
+                "Nicholas_D._Wolfwood",
+                1
+            ],
+            [
+                "Nicholas_D._Wolfwood",
+                4
+            ]
+        ]
+    },
+    "137644": {
+        "claim": "The American actor that plays Chumlee was born in the early 1980s.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "B._J._Arnau",
+                0
+            ],
+            [
+                "Ethyl_Eichelberger",
+                0
+            ],
+            [
+                "Josh_Albee",
+                0
+            ],
+            [
+                "Thom_Barry",
+                3
+            ],
+            [
+                "Thom_Barry",
+                0
+            ]
+        ]
+    },
+    "216799": {
+        "claim": "Timur lived his entire life without encountering the Christian Knights Hospitaller.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Knights_of_Malta_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "J._Ingo",
+                9
+            ],
+            [
+                "Battle_of_Adramyttion_-LRB-1334-RRB-",
+                0
+            ],
+            [
+                "Muristan",
+                1
+            ],
+            [
+                "J._Ingo",
+                0
+            ]
+        ]
+    },
+    "133523": {
+        "claim": "Woodrow Wilson lived in part of the 11th century.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Woodrow_Wilson_and_the_Birth_of_the_American_Century",
+                0
+            ],
+            [
+                "Wilson_College,_Princeton_University",
+                1
+            ],
+            [
+                "Wilson_College,_Princeton_University",
+                0
+            ],
+            [
+                "Woodrow_Wilson_High_School_-LRB-Tacoma,_Washington-RRB-",
+                0
+            ],
+            [
+                "Woodrow_Wilson_High_School",
+                0
+            ]
+        ]
+    },
+    "216797": {
+        "claim": "Timur was an earl.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Battle_of_the_Terek_River",
+                0
+            ],
+            [
+                "Timur_ruby",
+                24
+            ],
+            [
+                "Zafarnama_-LRB-Yazdi_biography-RRB-",
+                2
+            ],
+            [
+                "Timur_ruby",
+                2
+            ],
+            [
+                "Timur_ruby",
+                23
+            ]
+        ]
+    },
+    "129180": {
+        "claim": "Toy Story 2 was produced by DreamWorks.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Ash_Brannon",
+                1
+            ],
+            [
+                "Toy_Story",
+                1
+            ],
+            [
+                "Toy_Story",
+                22
+            ],
+            [
+                "Toy_Story",
+                9
+            ],
+            [
+                "Toy_Story",
+                0
+            ]
+        ]
+    },
+    "216795": {
+        "claim": "Timur styled himself as anything but a ghazi.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Timur",
+                21
+            ],
+            [
+                "Sayyid_dynasty",
+                11
+            ],
+            [
+                "Sayyid_dynasty",
+                12
+            ],
+            [
+                "Sayyid_dynasty",
+                14
+            ],
+            [
+                "Timur",
+                16
+            ]
+        ]
+    },
+    "216794": {
+        "claim": "Timur was Turkish.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Kuran_-LRB-surname-RRB-",
+                7
+            ],
+            [
+                "Timur_Yanyali",
+                0
+            ],
+            [
+                "Timur_-LRB-name-RRB-",
+                2
+            ],
+            [
+                "Timur_-LRB-name-RRB-",
+                3
+            ],
+            [
+                "Kuran_-LRB-surname-RRB-",
+                3
+            ]
+        ]
+    },
+    "216793": {
+        "claim": "Timur decisively defeated the Christian Knights Hospitaller at the Siege of Smyrna.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Siege_of_Smyrna",
+                0
+            ],
+            [
+                "Siege_of_Al-D\u0101m\u016bs",
+                1
+            ],
+            [
+                "Siege_of_Rhodes",
+                7
+            ],
+            [
+                "Siege_of_Rhodes",
+                9
+            ],
+            [
+                "Siege_of_Rhodes",
+                11
+            ]
+        ]
+    },
+    "216791": {
+        "claim": "Timur was only Chinese.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Young_Kashgar_Party",
+                5
+            ],
+            [
+                "Fu_An",
+                5
+            ],
+            [
+                "Young_Kashgar_Party",
+                2
+            ],
+            [
+                "Timur_Beg",
+                0
+            ],
+            [
+                "Timur_Beg",
+                5
+            ]
+        ]
+    },
+    "216790": {
+        "claim": "Timur was Anglo-Saxon.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Mill_Hill_Anglo-Saxon_cemetery",
+                2
+            ],
+            [
+                "Aspects_of_Anglo-Saxon_Magic",
+                0
+            ],
+            [
+                "Aspects_of_Anglo-Saxon_Magic",
+                1
+            ],
+            [
+                "Anglo-Saxon_religion",
+                4
+            ],
+            [
+                "Mill_Hill_Anglo-Saxon_cemetery",
+                0
+            ]
+        ]
+    },
+    "152696": {
+        "claim": "Trouble with the Curve was released on VHS.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "L'Autre_-LRB-video_album-RRB-",
+                1
+            ],
+            [
+                "Some_Kind_of_Trouble",
+                2
+            ],
+            [
+                "Superblaster",
+                1
+            ],
+            [
+                "\"Buzz!!\"_The_Movie",
+                1
+            ],
+            [
+                "\"Buzz!!\"_The_Movie",
+                2
+            ]
+        ]
+    },
+    "47215": {
+        "claim": "Ekta Kapoor worked on an Indian soap opera that premiered in August 2000.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Yeh_Dil_Sun_Raha_Hai",
+                5
+            ],
+            [
+                "Yeh_Dil_Sun_Raha_Hai",
+                0
+            ],
+            [
+                "Tujh_Sang_Preet_Lagai_Sajna_-LRB-2008_TV_series-RRB-",
+                1
+            ],
+            [
+                "Kalash_-LRB-TV_series-RRB-",
+                0
+            ],
+            [
+                "Kabhii_Sautan_Kabhii_Sahelii",
+                0
+            ]
+        ]
+    },
+    "182936": {
+        "claim": "The soundtrack of Far from the Madding Crowd was only by a French composer.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Far_from_the_Madding_Crowd_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "The_Madding_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Maddening_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                0
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                2
+            ]
+        ]
+    },
+    "147696": {
+        "claim": "Patrick Swayze and Demi Moore are both featured in Ghost.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Ghost_-LRB-1990_film-RRB-",
+                0
+            ],
+            [
+                "Ghost_-LRB-soundtrack-RRB-",
+                0
+            ],
+            [
+                "Demi's_Birthday_Suit",
+                0
+            ],
+            [
+                "Ghost_-LRB-1990_film-RRB-",
+                14
+            ],
+            [
+                "Ghost_-LRB-1990_film-RRB-",
+                4
+            ]
+        ]
+    },
+    "182933": {
+        "claim": "The cinematography of Far from the Madding Crowd was only by Nick Jonas.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Far_from_the_Madding_Crowd_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "The_Madding_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Maddening_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                0
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                2
+            ]
+        ]
+    },
+    "47210": {
+        "claim": "The Beverly Hillbillies is a series.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "The_Beverly_Hillbillies",
+                3
+            ],
+            [
+                "The_Beverly_Hillbillies",
+                6
+            ],
+            [
+                "Clampett",
+                5
+            ],
+            [
+                "Los_Beverly_de_Peralvillo",
+                0
+            ],
+            [
+                "The_Beverly_Hillbillies",
+                0
+            ]
+        ]
+    },
+    "182931": {
+        "claim": "The cinematography of Far from the Madding Crowd was only by a Portuguese cinematographer.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Far_from_the_Madding_Crowd_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "The_Madding_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Maddening_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                0
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                2
+            ]
+        ]
+    },
+    "182930": {
+        "claim": "The soundtrack of Far from the Madding Crowd was only by George Clooney.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Far_from_the_Madding_Crowd_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "The_Madding_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Maddening_Crowd",
+                3
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                0
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                2
+            ]
+        ]
+    },
+    "103398": {
+        "claim": "The Danish language is spoken only outside of Norway.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Mah_Meri_language",
+                1
+            ],
+            [
+                "Finnish_language",
+                0
+            ],
+            [
+                "Finnish_language",
+                3
+            ],
+            [
+                "Pite_Sami_language",
+                1
+            ],
+            [
+                "Mah_Meri_language",
+                0
+            ]
+        ]
+    },
+    "175880": {
+        "claim": "Chris Mullin played with the Indiana Pacers from 1997 until the 1999-2000 season when he died suddenly.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Chris_Mullin_-LRB-basketball-RRB-",
+                11
+            ],
+            [
+                "Indiana_Pacers",
+                10
+            ],
+            [
+                "David_Harrison_-LRB-basketball-RRB-",
+                1
+            ],
+            [
+                "Chris_Mullin_-LRB-basketball-RRB-",
+                10
+            ],
+            [
+                "Wayne_Radford",
+                5
+            ]
+        ]
+    },
+    "109447": {
+        "claim": "Issa Rae created Awkward Black Girl and has had success.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Awkward_Black_Girl",
+                0
+            ],
+            [
+                "Insecure_-LRB-TV_series-RRB-",
+                0
+            ],
+            [
+                "I_Am_Other",
+                4
+            ],
+            [
+                "Issa_Rae",
+                2
+            ],
+            [
+                "Black_Girl_Magic",
+                3
+            ]
+        ]
+    },
+    "76086": {
+        "claim": "Pulmonary embolism is not indicated by low blood oxygen levels.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Alveolar\u2013arterial_gradient",
+                5
+            ],
+            [
+                "Persistent_fetal_circulation",
+                3
+            ],
+            [
+                "Persistent_fetal_circulation",
+                4
+            ],
+            [
+                "Oxygen_saturation_-LRB-medicine-RRB-",
+                5
+            ],
+            [
+                "Bronchial_circulation",
+                8
+            ]
+        ]
+    },
+    "225789": {
+        "claim": "Chinatown is a 1974 song.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Walkabout_long_Chinatown",
+                16
+            ],
+            [
+                "Walkabout_long_Chinatown",
+                11
+            ],
+            [
+                "Walkabout_long_Chinatown",
+                12
+            ],
+            [
+                "Chinatown_-LRB-song-RRB-",
+                0
+            ],
+            [
+                "Walkabout_long_Chinatown",
+                0
+            ]
+        ]
+    },
+    "76080": {
+        "claim": "Scandal plays hip-hop music.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "List_of_hip_hop_festivals",
+                1
+            ],
+            [
+                "List_of_years_in_hip_hop_music",
+                0
+            ],
+            [
+                "List_of_years_in_hip_hop_music",
+                96
+            ],
+            [
+                "Hip_hop_-LRB-disambiguation-RRB-",
+                2
+            ],
+            [
+                "Hip_hop_-LRB-disambiguation-RRB-",
+                4
+            ]
+        ]
+    },
+    "27611": {
+        "claim": "Designated Survivor (TV series) has 5 seasons.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Thomas_Kirkman_-LRB-disambiguation-RRB-",
+                6
+            ],
+            [
+                "Survivor_-LRB-U.S._TV_series-RRB-",
+                20
+            ],
+            [
+                "Diane_Hunter",
+                5
+            ],
+            [
+                "Survivor_-LRB-U.S._TV_series-RRB-",
+                0
+            ],
+            [
+                "Survivor_-LRB-U.S._TV_series-RRB-",
+                11
+            ]
+        ]
+    },
+    "97939": {
+        "claim": "Leslie Alexander is a former stock broker.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Leslie_Alexander",
+                3
+            ],
+            [
+                "John_C._B._Pendleton",
+                2
+            ],
+            [
+                "John_C._B._Pendleton",
+                0
+            ],
+            [
+                "Alexander_Leslie_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "Alexander_Leslie_-LRB-disambiguation-RRB-",
+                3
+            ]
+        ]
+    },
+    "129985": {
+        "claim": "Eric Bana is a dancer.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Bana",
+                25
+            ],
+            [
+                "The_Eric_Bana_Show_Live",
+                0
+            ],
+            [
+                "The_Eric_Bana_Show_Live",
+                4
+            ],
+            [
+                "Love_the_Beast",
+                0
+            ],
+            [
+                "Bana",
+                0
+            ]
+        ]
+    },
+    "182911": {
+        "claim": "The cinematography of Far from the Madding Crowd was by an Spanish film director.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1967_film-RRB-",
+                0
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                0
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1915_film-RRB-",
+                2
+            ],
+            [
+                "Far_from_the_Madding_Crowd_-LRB-1967_film-RRB-",
+                3
+            ],
+            [
+                "The_Madding_Crowd",
+                3
+            ]
+        ]
+    },
+    "97930": {
+        "claim": "The Beverly Hillbillies is a clothing store.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Los_Beverly_de_Peralvillo",
+                0
+            ],
+            [
+                "Clampett",
+                5
+            ],
+            [
+                "List_of_The_Beverly_Hillbillies,_Petticoat_Junction_and_Green_Acres_episodes",
+                0
+            ],
+            [
+                "List_of_The_Beverly_Hillbillies,_Petticoat_Junction_and_Green_Acres_episodes",
+                4
+            ],
+            [
+                "List_of_The_Beverly_Hillbillies,_Petticoat_Junction_and_Green_Acres_episodes",
+                7
+            ]
+        ]
+    },
+    "129239": {
+        "claim": "Sausage Party was directed by two men.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Two_Men_of_the_Desert",
+                0
+            ],
+            [
+                "Sausage_Race",
+                6
+            ],
+            [
+                "Newmarket_sausage",
+                1
+            ],
+            [
+                "Newmarket_sausage",
+                3
+            ],
+            [
+                "Two_Men_of_the_Desert",
+                2
+            ]
+        ]
+    },
+    "97937": {
+        "claim": "Watchmen is a film set in the future.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Watchman",
+                8
+            ],
+            [
+                "Clay_Enos",
+                3
+            ],
+            [
+                "Watchman",
+                16
+            ],
+            [
+                "Watch_the_Shadows_Dance",
+                0
+            ],
+            [
+                "Watchmen-COLON-_Original_Motion_Picture_Score",
+                0
+            ]
+        ]
+    },
+    "31232": {
+        "claim": "Linkin Park released Meteora in 2013.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Meteora_-LRB-album-RRB-",
+                9
+            ],
+            [
+                "The_Making_of_Meteora",
+                0
+            ],
+            [
+                "Meteora_-LRB-album-RRB-",
+                0
+            ],
+            [
+                "LP_Underground_Tour",
+                1
+            ],
+            [
+                "Meteora_-LRB-album-RRB-",
+                18
+            ]
+        ]
+    },
+    "7183": {
+        "claim": "Sands Hotel and Casino closed in 1952.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Sands_Hotel_and_Casino",
+                0
+            ],
+            [
+                "Sands_Hotel_and_Casino",
+                6
+            ],
+            [
+                "Sands_Casino_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "The_Venetian_Las_Vegas",
+                0
+            ],
+            [
+                "The_Venetian_Las_Vegas",
+                5
+            ]
+        ]
+    },
+    "29104": {
+        "claim": "Ice-T signed to Sire Records in 1987.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Rhyme_Pays",
+                1
+            ],
+            [
+                "The_Iceberg/Freedom_of_Speech..._Just_Watch_What_You_Say!",
+                2
+            ],
+            [
+                "Bedbugs_and_Ballyhoo",
+                2
+            ],
+            [
+                "Pleased_to_Meet_Me",
+                0
+            ],
+            [
+                "O.G._Original_Gangster",
+                1
+            ]
+        ]
+    },
+    "76884": {
+        "claim": "Heath Ledger directed music videos for celebrities.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "S_Ramachandran",
+                1
+            ],
+            [
+                "The_Order_-LRB-2003_film-RRB-",
+                0
+            ],
+            [
+                "S_Ramachandran",
+                2
+            ],
+            [
+                "Our_Sunshine",
+                3
+            ],
+            [
+                "State_Theatre_Centre_of_Western_Australia",
+                1
+            ]
+        ]
+    },
+    "72250": {
+        "claim": "Toy Story 2 is a computer-animated movie.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Toy_Story_2-COLON-_Buzz_Lightyear_to_the_Rescue",
+                0
+            ],
+            [
+                "Disney's_Animated_Storybook-COLON-_Toy_Story",
+                2
+            ],
+            [
+                "TS1",
+                5
+            ],
+            [
+                "Hawaiian_Vacation",
+                0
+            ],
+            [
+                "Disney's_Animated_Storybook-COLON-_Toy_Story",
+                0
+            ]
+        ]
+    },
+    "72700": {
+        "claim": "US Airways Flight 1549 was piloted by Amelia Earhart and Charles Lindbergh.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Trepassey",
+                1
+            ],
+            [
+                "Fred_Weick",
+                2
+            ],
+            [
+                "Amelia_Earhart_-LRB-disambiguation-RRB-",
+                5
+            ],
+            [
+                "Amelia_Earhart_-LRB-disambiguation-RRB-",
+                0
+            ],
+            [
+                "Amelia_Earhart_-LRB-disambiguation-RRB-",
+                7
+            ]
+        ]
+    },
+    "87578": {
+        "claim": "There are only Chinese people in the Republic of Macedonia.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Romani_people_in_the_Republic_of_Macedonia",
+                0
+            ],
+            [
+                "Romani_people_in_the_Republic_of_Macedonia",
+                16
+            ],
+            [
+                "Ethnic_Chinese_in_the_Dominican_Republic",
+                1
+            ],
+            [
+                "Chinese_people_in_Kenya",
+                0
+            ],
+            [
+                "Romani_people_in_the_Republic_of_Macedonia",
+                8
+            ]
+        ]
+    },
+    "12831": {
+        "claim": "Keith Stanfield is an actor.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Keith_Stanfield",
+                0
+            ],
+            [
+                "Donald_Keith",
+                5
+            ],
+            [
+                "Keith_Thibodeaux",
+                3
+            ],
+            [
+                "Come_Sunday_-LRB-film-RRB-",
+                1
+            ],
+            [
+                "Keith_Stanfield",
+                3
+            ]
+        ]
+    },
+    "131690": {
+        "claim": "The Dodo has only been depicted with a red head.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Dodo",
+                10
+            ],
+            [
+                "Swerve_-LRB-Transformers-RRB-",
+                2
+            ],
+            [
+                "Dodo",
+                21
+            ],
+            [
+                "Dodo",
+                9
+            ],
+            [
+                "European_goldfinch",
+                4
+            ]
+        ]
+    },
+    "15285": {
+        "claim": "Paul von Hindenburg was an official.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Deutsches_Turnfest_1933",
+                2
+            ],
+            [
+                "Hindenburg_Cup",
+                0
+            ],
+            [
+                "Oskar_von_Hindenburg",
+                0
+            ],
+            [
+                "Army_Group_Hindenburg",
+                0
+            ],
+            [
+                "Gertrud_von_Hindenburg",
+                1
+            ]
+        ]
+    },
+    "15284": {
+        "claim": "Paul von Hindenburg was an officer.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Paul_von_Hindenburg",
+                0
+            ],
+            [
+                "Paul_von_Hindenburg",
+                20
+            ],
+            [
+                "Paul_von_Hindenburg",
+                21
+            ],
+            [
+                "Paul_von_Hindenburg",
+                22
+            ],
+            [
+                "Paul_von_Hindenburg",
+                26
+            ]
+        ]
+    },
+    "87573": {
+        "claim": "Wolfgang Amadeus Mozart had two cousins who outlived him.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Franz_Mozart",
+                11
+            ],
+            [
+                "Franz_Mozart",
+                0
+            ],
+            [
+                "Forget_Mozart",
+                3
+            ],
+            [
+                "Neue_Mozart-Ausgabe",
+                0
+            ],
+            [
+                "Neue_Mozart-Ausgabe",
+                1
+            ]
+        ]
+    },
+    "109195": {
+        "claim": "Andrew Moray opposed the conversion of England to Protestantism by King Edward I.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Andrew_Murray_-LRB-Scottish_soldier-RRB-",
+                0
+            ],
+            [
+                "Alexander_Pilche",
+                1
+            ],
+            [
+                "Maurice_de_Moravia,_Earl_of_Strathearn",
+                6
+            ],
+            [
+                "Andrew_Moray",
+                1
+            ],
+            [
+                "Alexander_Pilche",
+                11
+            ]
+        ]
+    },
+    "109664": {
+        "claim": "Argentina has a military.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "AeroDreams",
+                1
+            ],
+            [
+                "Nostromo_Defensa",
+                1
+            ],
+            [
+                "Antonio_Baseotto",
+                1
+            ],
+            [
+                "AeroDreams",
+                0
+            ],
+            [
+                "AeroDreams",
+                8
+            ]
+        ]
+    },
+    "107092": {
+        "claim": "Barbarella was directed in America.",
+        "label": "SUPPORTS",
+        "evidence": [
+            [
+                "Barbarella_-LRB-film-RRB-",
+                0
+            ],
+            [
+                "Barbarella's",
+                0
+            ],
+            [
+                "Barbarella's",
+                1
+            ],
+            [
+                "Barbarella_-LRB-film-RRB-",
+                10
+            ],
+            [
+                "Barbarella_-LRB-nightclub-RRB-",
+                0
+            ]
+        ]
+    },
+    "7452": {
+        "claim": "Salt River Valley surrounds the Salt River.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Salt_River_Valley",
+                0
+            ],
+            [
+                "Salt_River_-LRB-Wyoming-RRB-",
+                2
+            ],
+            [
+                "Drivdalen",
+                1
+            ],
+            [
+                "Salt_Creek",
+                47
+            ],
+            [
+                "Salt_River_-LRB-Wyoming-RRB-",
+                0
+            ]
+        ]
+    },
+    "26623": {
+        "claim": "Pearl (Steven Universe) is a fictional alien being.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Steven_Universe_-LRB-character-RRB-",
+                1
+            ],
+            [
+                "Pearl_-LRB-Steven_Universe-RRB-",
+                0
+            ],
+            [
+                "Steven_Universe_-LRB-character-RRB-",
+                0
+            ],
+            [
+                "Garnet_-LRB-Steven_Universe-RRB-",
+                0
+            ],
+            [
+                "Pearl_-LRB-Steven_Universe-RRB-",
+                1
+            ]
+        ]
+    },
+    "200045": {
+        "claim": "Boxing Helena debuted in 1996.",
+        "label": "REFUTES",
+        "evidence": [
+            [
+                "Boxing_After_Dark",
+                0
+            ],
+            [
+                "Daniel_Santos_-LRB-boxer-RRB-",
+                2
+            ],
+            [
+                "Boxing_After_Dark",
+                8
+            ],
+            [
+                "Boxing_Helena",
+                0
+            ],
+            [
+                "Daniel_Santos_-LRB-boxer-RRB-",
+                1
+            ]
+        ]
+    }
+}
